@@ -12,6 +12,9 @@ public class fibinacci {
             System.out.println(a);
             a=b;
             b=c;
+
+
+            //kjhkjhkjhkj
         }
     }
 }
